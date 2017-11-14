@@ -1,1 +1,3 @@
 # TriForce
+
+![Triforce](TriForce.png)
